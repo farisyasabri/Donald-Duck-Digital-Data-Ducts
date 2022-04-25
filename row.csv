@@ -1,0 +1,10 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin
+Ford F250,10.0,8,360.0,215.0,4615.,14.0,70,US
+Chevy C20,10.0,8,307.0,200.0,4376.,15.0,70,US
+Dodge D200,11.0,8,318.0,210.0,4382.,13.5,70,US
+Hi 1200D,9.0,8,304.0,193.0,4732.,18.5,70,US
+Datsun PL510,27.0,4,97.00,88.00,2130.,14.5,71,Japan
+Chevrolet Vega 2300,28.0,4,140.0,90.00,2264.,15.5,71,US
+Volkswagen Super Beetle 117,0,4,97.00,48.00,1978.,20.0,71,Europe
+Plymouth Satellite Custom,16.0,6,225.0,105.0,3439.,15.5,71,US
+Chevrolet Chevelle Malibu,17.0,6,250.0,100.0,3329.,15.5,71,US

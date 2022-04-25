@@ -1,0 +1,20 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration
+Buick Skylark 320,15,8,350,165,3693,11.5
+Plymouth Satellite,18,8,318,150,3436,11
+AMC Rebel SST,16,,304,150,,12
+Ford Torino,17,8,302,140,3449,10.5
+Plymouth Fury iii,14,8,440,215,4312,8.5
+AMC Ambassador DPL,15,8,390,190,3850,8.5
+Citroen DS-21 Pallas,0,,133,115,,17.5
+Ford Torino (sw),0,,351,153,,11
+Plymouth Satellite (sw),0,8,383,175,4166,10.5
+AMC Rebel SST (sw),0,8,360,175,3850,11
+Dodge Challenger SE,15,8,383,170,3563,10
+Plymouth 'Cuda 340,14,8,340,160,3609,8
+Ford Mustang Boss 302,0,8,302,140,3353,8
+Chevrolet Monte Carlo,15,,400,150,,9.5
+Toyota Corolla Mark ii,24,4,113,95,2372,15
+Volkswagen 1131 Deluxe Sedan,26,4,97,46,1835,20.5
+Audi 100 LS,24,4,107,90,2430,14.5
+Saab 99e,25,,104,95,,17.5
+BMW 2002,26,4,121,113,2234,12.5

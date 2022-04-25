@@ -1,0 +1,20 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin
+Buick Skylark 320,15,8,350,165,3693,11.5,70,US
+Plymouth Satellite,18,8,318,150,3436,11,70,US
+AMC Rebel SST,16,8,304,150,3433,12,70,US
+Ford Torino,17,8,302,140,3449,10.5,70,US
+Plymouth Fury iii,14,8,440,215,4312,8.5,70,US
+AMC Ambassador DPL,15,8,390,190,3850,8.5,70,US
+Citroen DS-21 Pallas,0,4,133,115,3090,17.5,70,Europe
+Ford Torino (sw),0,8,351,153,4034,11,70,US
+Plymouth Satellite (sw),0,8,383,175,4166,10.5,70,US
+AMC Rebel SST (sw),0,8,360,175,3850,11,70,US
+Dodge Challenger SE,15,8,383,170,3563,10,70,US
+Plymouth 'Cuda 340,14,8,340,160,3609,8,70,US
+Ford Mustang Boss 302,0,8,302,140,3353,8,70,US
+Chevrolet Monte Carlo,15,8,400,150,3761,9.5,70,US
+Toyota Corolla Mark ii,24,4,113,95,2372,15,70,Japan
+Volkswagen 1131 Deluxe Sedan,26,4,97,46,1835,20.5,70,Europe
+Audi 100 LS,24,4,107,90,2430,14.5,70,Europe
+Saab 99e,25,4,104,95,2375,17.5,70,Europe
+BMW 2002,26,4,121,113,2234,12.5,70,Europe
